@@ -1,0 +1,17 @@
+// 
+// These parameters will appear in the new dataset.
+// 
+NewDatasetFields
+{
+	site:	Down Syndrome Research Foundation
+	system:	DSQ-2010
+	institute:	
+	protocol:	SampleRate_300Hz.rp
+	purpose:	
+	keywords:	noise
+	coefsName:	/opt/ctf/hardware/M022/M022_2511.coef
+	sensName:	/opt/ctf/hardware/M022/M022_2511.sens
+	appName:	Acq 5.0.2-linux-20060130
+	systemType:	Untitled
+	bandwidth:	0.000000, 75.000000
+}
